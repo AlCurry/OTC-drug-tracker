@@ -6,7 +6,7 @@
 # Overview
 An application built to help consumers find and keep track of over-the-counter drugs they currently use and have taken.
 
-**Please visit out application here: http://pill-pal-pro.herokuapp.com/search
+**Please visit out application here: http://med-trax.herokuapp.com/search.  
 
 **Real World Problem:
 
@@ -105,6 +105,8 @@ People young and old whether they take large or small amounts of medicines, need
     * tim: encryption and authentication - handling routing and using passport and bcrypt
     * adam: project direction/management, flex role - maintain trello, project notes, assist whichever groups need help
 
+
+
 * assignments for the night
     * everyone will do a deep dive on the homework to understand:
         * routing for a full stack app
@@ -116,4 +118,4 @@ People young and old whether they take large or small amounts of medicines, need
     * tim - will look into bcrypt 
     * adam - will set up trello and look into agile project management
 
-
+** (Changed name quickly near project end from pill-pal to med-trax, occasionally references to pill-pal may appear, but should be well camouflaged.)
